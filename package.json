@@ -1,0 +1,28 @@
+{
+  "name": "fcc-header-parser",
+  "version": "1.0.0",
+  "description": "display header information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtarun/FCC-Header-Parser.git"
+  },
+  "author": "vtarun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtarun/FCC-Header-Parser/issues"
+  },
+  "homepage": "https://github.com/vtarun/FCC-Header-Parser#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.13.3"
+  },
+  "engines": {
+    "node": "8.9.1"
+  }
+}
